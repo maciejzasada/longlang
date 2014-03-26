@@ -1,10 +1,13 @@
 {
   "name": "longlang",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Generates fake language (longer or shorter) from a localisation file, preserving inline HTML.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "bin": {
+    "longlang": "./index.js"
   },
   "repository": {
     "type": "git",
