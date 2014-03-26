@@ -1,4 +1,4 @@
-LongLang
+LongLang [![Build Status](https://travis-ci.org/maciejzasada/longlang.png?branch=develop)](https://travis-ci.org/maciejzasada/longlang)
 ========
 
 Generates fake language (longer or shorter) from existing localisation file, preserving inline HTML.
