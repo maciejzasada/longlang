@@ -1,0 +1,37 @@
+{
+  "name": "longlang",
+  "version": "0.1.0",
+  "description": "Generates fake language (longer or shorter) from a localisation file, preserving inline HTML.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maciejzasada/longlang.git"
+  },
+  "author": "Maciej Zasada",
+  "license": "MIT",
+  "dependencies": {
+    "minimist": "0.0.8",
+    "jquery": "~2.1.0",
+    "jsdom": "~0.10.3"
+  },
+  "readmeFilename": "README.md",
+  "devDependencies": {},
+  "keywords": [
+    "long",
+    "fake",
+    "short",
+    "language",
+    "generator",
+    "localisation",
+    "copy",
+    "preserve",
+    "html",
+    "tags",
+    "responsive",
+    "design",
+    "testing"
+  ]
+}
