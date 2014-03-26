@@ -7,13 +7,13 @@ Generates fake language (longer or shorter) from existing localisation file, pre
 
 ## Description
 LongLang is designed to facilitate multi-national application and website testing by generating a fake localisation file that is longer (or shorter) than the source localisation (e.g. English).  
-![English](https://raw.githubusercontent.com/maciejzasada/longlang/master/docs/images/source.png)
+![English](https://raw.githubusercontent.com/maciejzasada/longlang/develop/docs/images/source.png)
 
 By generating the longer, fake language, you can easily see whether the layout adapts well or if it needs tweaks.  
-![LongLang](https://raw.githubusercontent.com/maciejzasada/longlang/master/docs/images/longlang.png)
+![LongLang](https://raw.githubusercontent.com/maciejzasada/longlang/develop/docs/images/longlang.png)
 
 LongLang begins all copy with "S" after which "X"s follow, and appends "E" at the end so you can easily notice whether something is timmed / cropped or if the copy renders well.  
-![issue](https://raw.githubusercontent.com/maciejzasada/longlang/master/docs/images/issue.png)
+![issue](https://raw.githubusercontent.com/maciejzasada/longlang/develop/docs/images/issue.png)
 
 LongLang also preserves inline HTML so no tags, attributes or class names will be altered.
 
