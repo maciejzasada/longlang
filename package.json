@@ -1,6 +1,6 @@
 {
   "name": "longlang",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Generates fake language (longer or shorter) from a localisation file, preserving inline HTML.",
   "main": "index.js",
   "scripts": {
